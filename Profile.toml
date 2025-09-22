@@ -5,13 +5,11 @@ version = "0.1.0"
 
 [deps]
 AlignedAllocs = "6ac60441-711f-43f0-8178-7f71f0888134"
-EnumX = "4e289a0a-7415-4d19-859d-a7e5c4648b56"
 FixedSizeArrays = "3821ddf9-e5b5-40d5-8e25-6813ab96b5e2"
 
 [compat]
 Test = "1.11 - 1.12"
 AlignedAllocs = "0.2.0 - 0.2.9, 0.3 - 0.5"
-EnumX = "1"
 FixedSizeArrays = "1.2"
 julia = "1.12-dev"
 
